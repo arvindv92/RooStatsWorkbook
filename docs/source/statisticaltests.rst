@@ -298,7 +298,7 @@ and :math:`\vec{N_S}|H_{B})` will be small, since the data is improbable under t
 hence the ratio will be large. Conversely for a dataset :math:`N_B` that is very background-like
 :math:`L(\vec{N_B}|H_{S+B})` will be small, since the data is probable under this hypothesis,
 and :math:`L({\vec{N_B}}|H_{B})` will be large, since the data is improbable under this hypothesis,
-hence the ratio will be large. 
+hence the ratio will be small. 
 
 With a likelihood-ratio test statistic, frequentist :math:`p`-values can be
 calculated for observable data distributions or arbitrary complexity as the test
